@@ -1,0 +1,56 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.hero_heading {
+  position: absolute;
+  left: 0;
+  top: 150px;
+  right: 0;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  font-size: 2.5rem;
+  font-family: 'Pacifico', cursive;
+  line-height: 1.3em;
+  display: inline-block;
+  max-width: 600px;
+}
+
+.bg {
+  background-image: url("gifts.jpeg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+input {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h2 {
+  color: black;
+  font-size: 2rem;
+  line-height: 2rem;
+  display: inline-block;
+  max-width: 600px;
+  color: #161d6f;
+  font-family: 'Sacramento', cursive;
+
+
+}
+
+.girl {
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin: auto;
+}
